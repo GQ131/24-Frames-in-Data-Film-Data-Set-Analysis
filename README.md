@@ -1,10 +1,11 @@
-# 24-Frames-in-Data
+# 24-Frames-in-Data: Exploring the Evolution of Films and Box Office
+
 
 ## Case Study: Movie Industry Profitability and Consumer Preference Analysis
 
 ### Purpose:
 
-The purpose of this project was to analyze a dataset of 6,820 movies released between 1986 and 2016, sourced from Kaggle, to extract actionable insights regarding profitability and market preferences in the entertainment industry. The dataset contained a range of information including budget, gross revenue, production company, country, genre, IMDb score, and more.
+The purpose of this project was to analyze via SQL a dataset of 6,820 movies released between 1986 and 2016, sourced from Kaggle, to extract actionable insights regarding profitability and market preferences in the entertainment industry. The dataset contained a range of information including budget, gross revenue, production company, country, genre, IMDb score, and more.
 
 ### Benefit:
 The analysis provided insights into the correlation between movie budgets and gross revenue, as well as shifts in audience preferences across genres and ratings over three decades. By structuring the data into a normalized relational database, querying was optimized for efficiency, making the process of data retrieval and updates seamless and effective for generating business insights.
