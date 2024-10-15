@@ -39,25 +39,6 @@ In a rapidly evolving entertainment landscape, understanding profitability drive
    - **Objective:** Explore the relationship between a movie's budget and its IMDb score.
    - **Business Insight:** Provide insights into how budget impacts perceived movie quality.
 
-## Database Design
-To support this analysis, the dataset was converted into a relational database using the following tables:
-- **Movies Table**: Contains movie-related data such as title, year, budget, gross revenue, and IMDb score.
-- **Companies Table**: Lists production companies involved in the creation of movies.
-- **Countries Table**: Details the countries where the movies were produced.
-- **Directors, Actors, and Writers Tables**: Capture key personnel involved in movie production, allowing for detailed analysis of industry collaboration patterns.
-- **Genres and Ratings Tables**: Provide detailed information about movie genres and ratings, critical for understanding market preferences.
-
-### Many-to-Many Relationships
-To manage many-to-many relationships, three associative tables were created:
-- **MovieGenres Table**: Links movies to genres.
-- **MovieActors Table**: Links movies to actors.
-- **MovieWriters Table**: Links movies to writers.
-
-These tables allow for more flexible querying and support the business questions outlined above.
-
-## ERD (Entity Relationship Diagram)
-The project includes an ERD diagram that illustrates the relationships between tables such as Movies, Companies, Countries, Directors, Actors, Genres, and more. The ERD diagram serves as a blueprint for how the data is organized and queried to provide insights.
-
 ## Challenges and Solutions
 Several challenges were encountered during data import and preparation:
 1. **Formatting and Data Type Mismatches**:
