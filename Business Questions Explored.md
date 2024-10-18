@@ -7,6 +7,7 @@ This project analyzes a dataset of 6,820 movies released between 1986 and 2016, 
 In a rapidly evolving entertainment landscape, understanding profitability drivers and audience preferences is crucial for industry stakeholders. This analysis aims to explore key factors influencing movie success, including budget allocations, market preferences by genre, and geographic trends in movie production.
 
 ## Key Questions Explored
+
 1. **What is the average runtime of movies across all films in the US??**
    - **Objective:** Determine the average length of movies.
    - **Business Insight:** Align movie runtimes with audience expectations and optimize scheduling for theaters.
@@ -18,7 +19,8 @@ In a rapidly evolving entertainment landscape, understanding profitability drive
    - **Objective:** Investigate the relationship between production budgets and box office revenues.
    - **Business Insight:** Inform budget allocation strategies by identifying if larger budgets typically result in higher revenues.
 
-   
+   <img width="361" alt="image" src="https://github.com/user-attachments/assets/b24b363a-e8f7-4286-8377-1bc4bb193e9e">
+
 
 3. **Which year had the highest average movie rating?**
    - **Objective:** Identify the year with the highest average movie rating.
@@ -56,6 +58,7 @@ In a rapidly evolving entertainment landscape, understanding profitability drive
 8. **Is there a correlation between a movie’s budget and its score?**
    - **Objective:** Explore the relationship between a movie's budget and its IMDb score.
    - **Business Insight:** Provide insights into how budget impacts perceived movie quality.
+<img width="346" alt="image" src="https://github.com/user-attachments/assets/a93065ba-88ae-4c7a-ab0b-85e931c2e29b">
 
    
 
