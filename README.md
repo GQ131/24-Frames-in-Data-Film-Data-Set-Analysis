@@ -31,7 +31,9 @@ To begin the analysis, I worked with a comprehensive dataset that incorporated 1
 - Runtime
 - Year of release
 
-Given the complexity of the dataset, I transformed the original single file into a structured database with eight distinct but interconnected tables. These were:
+Given the complexity of the dataset, I transformed the original single file into a structured database with eight distinct but interconnected tables.
+
+These were:
 
 - **Movies:** Central table containing core details of each movie.
 - **Companies:** Data about production companies involved in each film.
